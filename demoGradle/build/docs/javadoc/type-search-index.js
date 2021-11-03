@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"org.example.gradle","l":"MyPlugin"},{"p":"org.example.gradle","l":"MyTask"}];updateSearchResults();
