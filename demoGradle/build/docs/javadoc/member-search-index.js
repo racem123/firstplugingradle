@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"org.example.gradle","c":"MyPlugin","l":"apply(Project)","u":"apply(org.gradle.api.Project)"},{"p":"org.example.gradle","c":"MyPlugin","l":"MyPlugin()","u":"%3Cinit%3E()"},{"p":"org.example.gradle","c":"MyTask","l":"myTask()"},{"p":"org.example.gradle","c":"MyTask","l":"MyTask()","u":"%3Cinit%3E()"}];updateSearchResults();
